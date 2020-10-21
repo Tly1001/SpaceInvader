@@ -1,0 +1,21 @@
+.grid {
+  width: min-content;
+  margin: auto;
+}
+
+.column {
+  display: flex;
+  width: min-content;
+}
+
+.square {
+  border: 2px solid black;
+  height: 50px;
+  width: 50px;
+}
+
+.player {
+  background-color: dodgerblue;
+}
+
+
